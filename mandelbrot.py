@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 
-dimen = 1024
+dimen = 512
 iterations = 80
 
 incr = 3.0/dimen
